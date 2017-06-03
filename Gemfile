@@ -56,4 +56,5 @@ gem 'bootstrap-sass', '~>2.3.2.0'
 gem 'simple_form'
 gem 'bootstrap-datepicker-rails', '~> 1.6', '>= 1.6.4.1'
 gem 'devise'
+gem 'cancan'
 
